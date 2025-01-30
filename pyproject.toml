@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "s3p-plugin-parser-cenelec"
-version = "0.3.0"
+version = "0.3.1"
 description = "A repository that provides a pure template to make it easier to create a new plugin project"
 authors = ["CuberHuber, Roman Lupashko <lupashcko.rom@yandex.ru>"]
 readme = "readme.md"
 
 [tool.poetry.dependencies]
 python = "^3.11"
-s3p-sdk = "0.2.10"
+s3p-sdk = "0.2.11"
 dateparser = "^1.2.0"
 
 
